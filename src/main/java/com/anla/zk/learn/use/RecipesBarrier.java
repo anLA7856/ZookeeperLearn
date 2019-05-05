@@ -12,7 +12,7 @@ import org.apache.curator.retry.ExponentialBackoffRetry;
  * @version 1.0
  * @date 2019/5/5 11:10
  **/
-public class RecipesCyclicBarrier {
+public class RecipesBarrier {
     static String barrierPath = "/curator_recipes_barrier_path";
     static DistributedBarrier barrier;
 
