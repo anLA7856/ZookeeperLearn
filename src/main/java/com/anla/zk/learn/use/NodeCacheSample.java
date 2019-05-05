@@ -9,6 +9,7 @@ import org.apache.curator.retry.ExponentialBackoffRetry;
 import org.apache.zookeeper.CreateMode;
 
 /**
+ * 使用NodeCache监听当前节点变化
  * @author luoan
  * @version 1.0
  * @date 2019/5/4 18:23
